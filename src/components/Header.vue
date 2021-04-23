@@ -1,23 +1,23 @@
 <template>
   <header class="mt-32 w-11/12 mx-auto flex flex-col md:flex-row">
     <div class="text-left">
-      <h1 class="text-salmon font-medium text-4xl md:text-5xl">
+      <h1 class="text-salmon font-semibold text-4xl md:text-5xl">
         Life insurance — now a premium membership you'll love
       </h1>
-      <p class="mt-4 text-lg text-gray-400">
+      <p class="mt-4 text-lg text-gray-600">
         Introducing a new era of life insurance. Affordable plans, instant
         coverage and exciting member benefits.
       </p>
       <div class="text-center mt-6">
         <input
-          class="border w-full md:w-1/2 px-6 py-3 rounded-full outline-none focus:outline-none mr-1 mb-1"
+          class=" border border-gray-400 hover:border-blue-500  focus:border-blue-500  w-full md:w-1/2 px-6 py-4 rounded-full outline-none focus:outline-none mr-1 mb-1"
           style="transition: all 0.15s ease 0s"
           placeholder="Enter your email"
         />
       </div>
-      <div class="text-center mt-6">
+      <div class="text-center mt-2">
         <button
-          class="bg-new-blue w-full md:w-1/2 hover:bg-new-blue-hover transition-colors text-white active:bg-gray-700 text px-6 py-3 rounded-full shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1"
+          class="bg-new-blue w-full md:w-1/2 hover:bg-new-blue-hover transition-colors text-white active:bg-gray-700 text px-6 py-4 rounded-full shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1"
           type="button"
         >
          Join Waitlist
