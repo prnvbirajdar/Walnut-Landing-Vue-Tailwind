@@ -5,12 +5,12 @@
 <script setup>
 import Home from './components/Home.vue'
 
-export default {
-  name: 'App',
-  components: {
-    Home
-  }
-}
+// export default {
+//   name: 'App',
+//   components: {
+//     Home
+//   }
+// }
 
 
 // This starter template is using Vue 3 experimental <script setup> SFCs
