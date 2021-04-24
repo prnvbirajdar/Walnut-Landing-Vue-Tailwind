@@ -1,7 +1,7 @@
 <template>
-  <section class="w-11/12 mx-auto">
-    <div class="mt-60 mb-10 flex flex-wrap justify-center">
-      <div class="w-full sm:w-11/12 md:w-8/12 lg:w-6/12 2xl:w-5/12 px-4">
+  <section class="w-11/12 md:full mx-auto flex flex-col md:flex-row md:mt-96">
+    <div class="mt-60 mb-10 flex flex-wrap justify-center md:w-1/2 lg:w-10/12  md:mt-0 md:h-full md:sticky md:top-56">
+      <div class="w-full sm:w-11/12 px-4">
         <h2
           class="text-5xl font-title tracking-wide font-medium text-gray-800 text-left leading-12"
         >
@@ -13,7 +13,7 @@
         </p>
       </div>
     </div>
-    <div class="w-11/12 mx-auto space-y-6">
+    <div class="md:w-11/12  mx-auto space-y-6 md:mt-60">
       <BenefitCard
         image="/stars.png"
         color="bg-light-yellow"
@@ -33,19 +33,6 @@
         title="Protection to keep your digital assets safe"
         body="Get access to industry-leading services that help manage your passwords, digital assets and online identity."
       />
-    </div>
-  </section>
-  <section class="relative py-20">
-    <div class="container mx-auto px-4">
-      <div class="items-center flex flex-wrap">
-        <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
-          <img
-            alt="..."
-            class="max-w-full rounded-lg shadow-lg"
-            src="https://images.unsplash.com/photo-1555212697-194d092e3b8f?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=634&amp;q=80"
-          />
-        </div>
-      </div>
     </div>
   </section>
 </template>
