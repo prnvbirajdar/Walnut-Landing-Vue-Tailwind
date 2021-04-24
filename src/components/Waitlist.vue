@@ -1,78 +1,49 @@
 <template>
-  
-      <section class="pb-20 relative block bg-gray-900">
-        <div
-          class="bottom-auto top-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden -mt-20"
-          style="height: 80px;"
+  <div class="text-black px-5">
+    <p class="px-5 rounded py-1 bg-gray-300 block sm:hidden">Mobile</p>
+    <p class="px-5 rounded py-1 bg-red-300 hidden sm:block md:hidden">Sm</p>
+    <p
+      class="px-5 rounded py-1 bg-green-300 hidden sm:hidden md:block lg:hidden"
+    >
+      Md
+    </p>
+    <p
+      class="px-5 rounded py-1 bg-blue-300 hidden sm:hidden md:hidden lg:block xl:hidden"
+    >
+      Lg
+    </p>
+    <p
+      class="px-5 rounded py-1 bg-yellow-300 hidden sm:hidden md:hidden lg:hidden xl:block 2xl:hidden"
+    >
+      xl
+    </p>
+    <p
+      class="px-5 rounded py-1 bg-purple-300 hidden sm:hidden md:hidden lg:hidden xl:hidden 2xl:block"
+    >
+      2xl
+    </p>
+  </div>
+  <section class="bg-salmon dark:bg-gray-800 mt-96 h-96">
+    <div
+      class="text-center w-full mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 z-20"
+    >
+      <p class="text-2xl mt-4 mb-6 max-w-md mx-auto text-white">
+        Join the waitlist
+      </p>
+      <h2
+        class="text-5xl font-extrabold text-white dark:text-white sm:text-4xl"
+      >
+        <span class="block"> Get notified when we are live! </span>
+      </h2>
+
+      <div class="flex justify-center sm:text-left mt-12">
+        <button
+          class="text-new-blue transform transition hover:scale-105 w-44 font-bold bg-white active:bg-gray-700 text px-6 py-4 rounded-full shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1"
+          type="button"
         >
-          <svg
-            class="absolute bottom-0 overflow-hidden"
-            xmlns="http://www.w3.org/2000/svg"
-            preserveAspectRatio="none"
-            version="1.1"
-            viewBox="0 0 2560 100"
-            x="0"
-            y="0"
-          >
-            <polygon
-              class="text-gray-900 fill-current"
-              points="2560 0 2560 100 0 100"
-            ></polygon>
-          </svg>
-        </div>
-        <div class="container mx-auto px-4 lg:pt-24 lg:pb-64">
-          <div class="flex flex-wrap text-center justify-center">
-            <div class="w-full lg:w-6/12 px-4">
-              <h2 class="text-4xl font-semibold text-white">Build something</h2>
-              <p class="text-lg leading-relaxed mt-4 mb-4 text-gray-500">
-                Put the potentially record low maximum sea ice extent tihs year
-                down to low ice. According to the National Oceanic and
-                Atmospheric Administration, Ted, Scambos.
-              </p>
-            </div>
-          </div>
-          <div class="flex flex-wrap mt-12 justify-center">
-            <div class="w-full lg:w-3/12 px-4 text-center">
-              <div
-                class="text-gray-900 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center"
-              >
-                <i class="fas fa-medal text-xl"></i>
-              </div>
-              <h6 class="text-xl mt-5 font-semibold text-white">
-                Excelent Services
-              </h6>
-              <p class="mt-2 mb-4 text-gray-500">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
-            </div>
-            <div class="w-full lg:w-3/12 px-4 text-center">
-              <div
-                class="text-gray-900 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center"
-              >
-                <i class="fas fa-poll text-xl"></i>
-              </div>
-              <h5 class="text-xl mt-5 font-semibold text-white">
-                Grow your market
-              </h5>
-              <p class="mt-2 mb-4 text-gray-500">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
-            </div>
-            <div class="w-full lg:w-3/12 px-4 text-center">
-              <div
-                class="text-gray-900 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center"
-              >
-                <i class="fas fa-lightbulb text-xl"></i>
-              </div>
-              <h5 class="text-xl mt-5 font-semibold text-white">Launch time</h5>
-              <p class="mt-2 mb-4 text-gray-500">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
-            </div>
-          </div>
-        </div>
-      </section>
+          Join Waitlist
+        </button>
+      </div>
+    </div>
+  </section>
 </template>

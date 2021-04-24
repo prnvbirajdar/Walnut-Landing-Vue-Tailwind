@@ -1,5 +1,5 @@
 <template>
-  <div class="w-11/12 lg:w-4/12 md:w-8/12 mx-auto px-4 text-center">
+  <div class="w-11/12 lg:w-4/12 md:w-8/12 mx-auto px-4 text-center transform transition hover:scale-105">
     <div class="mx-auto h-40 w-40 z-10"><img src="/logo.png" alt="Logo" /></div>
 
     <div

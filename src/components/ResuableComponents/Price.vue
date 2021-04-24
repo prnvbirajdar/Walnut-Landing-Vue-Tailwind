@@ -1,5 +1,5 @@
 <template>
-  <div class="lg:pt-44 w-11/12 mx-auto md:w-8/12 lg:w-4/12 px-4 text-center">
+  <div class="lg:mt-44 w-11/12 mx-auto md:w-8/12 lg:w-4/12 px-4 text-center transform transition hover:scale-105">
     <div
       class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow  hover:shadow-lg rounded-lg"
     >
