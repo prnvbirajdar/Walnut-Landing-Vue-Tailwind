@@ -24,7 +24,7 @@
         </div>
         <div class="text-center sm:text-left mt-2">
           <button
-            class="bg-new-blue sm:text-lg w-full sm:w-1/2 md:w-3/5 hover:bg-new-blue-hover transition-colors text-white active:bg-gray-700 text px-6 py-4 rounded-full shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1"
+            class="bg-new-blue font-bold sm:text-lg w-full sm:w-1/2 md:w-3/5 hover:bg-new-blue-hover transition-colors text-white active:bg-gray-700 text px-6 py-4 rounded-full shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1"
             type="button"
           >
             Join Waitlist
@@ -32,9 +32,9 @@
         </div>
       </div>
     </div>
-    <div class="mt-16 mx-auto md:mx-0 block md:hidden lg:block">
+    <div class="mx-auto md:mx-0 flex flex-col justify-center ">
       <img
-        class="object-cover h-96 md:h-96 lg:h-auto"
+        class="object-cover h-96 md:h-96 lg:h-auto block md:hidden lg:block"
         src="/phone.png"
         alt="Phone Image"
       />
