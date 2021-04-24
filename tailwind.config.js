@@ -16,6 +16,7 @@ module.exports = {
         "light-yellow": "#fffbed",
         "light-pink": "#feebee",
         "light-blue": "#ebedf9",
+        "chatbox":"#FF585B"
       },
       lineHeight: {
         12: "3.25rem",
