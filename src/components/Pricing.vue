@@ -27,11 +27,11 @@
     <div class="mt-32 flex flex-wrap justify-center">
       <div class="w-full sm:w-11/12 md:w-3/5 lg:w-6/12 2xl:w-5/12 px-4">
         <h2
-          class="text-5xl font-bold text-gray-800 text-left sm:text-center leading-12"
+          class="text-5xl font-title tracking-wide font-medium text-gray-800 text-left sm:text-center leading-12"
         >
           Simple and affordable plans starting at only $5
         </h2>
-        <p class="text-lg leading-relaxed mt-8 mb-4 text-left sm:text-center">
+        <p class="text-lg leading-relaxed mt-8 mb-4 text-left text-gray-600 sm:text-center">
           We're putting the power in your hands with 100% transparent pricing.
           Simply select your plan, see your coverage and purchase in just five
           minutes.
@@ -39,13 +39,13 @@
       </div>
     </div>
     <div>
-      <div class="px-2 py-6 mx-auto lg:w-1/4 md:w-full">
-        <div class="p-4 shadow-md rounded-xl">
-          <h2 class="mb-1 text-2xl font-extrabold text-salmon lg:text-4xl">
+      <div class="px-2 py-6 mx-auto lg:w-1/3 md:w-full">
+        <div class="p-4 border-2 shadow-md rounded-xl">
+          <h2 class="mb-1 text-2xl font-title tracking-wide font-semibold text-salmon lg:text-4xl">
             $10 Monthly Plan
           </h2>
           <p class="mb-3 text-gray-600 lg:text-lg">Life Insurance Coverage</p>
-          <p class="mb-4 w-40 mx-auto text-xs leading-relaxed">
+          <p class="mb-4 text-gray-600 w-40 mx-auto text-xs leading-relaxed">
             Access to our member platform and exclusive perks
           </p>
 

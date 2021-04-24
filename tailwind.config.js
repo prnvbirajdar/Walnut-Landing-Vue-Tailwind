@@ -3,6 +3,10 @@ module.exports = {
   purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
+    fontFamily: {
+      body: ["Mulish", "Avenir", "Helvetica", "Arial", "sans-serif"],
+      title: ["Inter", "sans-serif"],
+    },
     extend: {
       colors: {
         "new-blue": "#334dc6",
@@ -13,7 +17,7 @@ module.exports = {
         "new-dark-gray": "#353535",
       },
       lineHeight: {
-        12: "3rem",
+        12: "3.25rem",
       },
     },
   },
