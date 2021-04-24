@@ -5,8 +5,8 @@
       <header-component></header-component>
       <div class="md:mt-96 lg:mt-0"></div>
       <pricing-component></pricing-component>
-      <!--     <benefits-component></benefits-component>-->
-      <waitlist-component></waitlist-component>
+      <!--     <benefits-component></benefits-component>
+      <waitlist-component></waitlist-component>-->
     </main>
     <!-- <footer-component></footer-component> -->
   </div>

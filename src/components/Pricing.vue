@@ -23,10 +23,12 @@
       2xl
     </p>
   </div>
-  <section>
-    <div class="h-screen mt-32 flex flex-wrap justify-center">
+  <section class="h-screen">
+    <div class="mt-32 flex flex-wrap justify-center">
       <div class="w-full sm:w-11/12 md:w-3/5 lg:w-6/12 2xl:w-5/12 px-4">
-        <h2 class="text-5xl font-bold text-gray-800 text-left sm:text-center leading-12 ">
+        <h2
+          class="text-5xl font-bold text-gray-800 text-left sm:text-center leading-12"
+        >
           Simple and affordable plans starting at only $5
         </h2>
         <p class="text-lg leading-relaxed mt-8 mb-4 text-left sm:text-center">
@@ -37,7 +39,26 @@
       </div>
     </div>
     <div>
-      <div class="w-10/12"> hi</div>
+      <div class="px-2 py-6 mx-auto lg:w-1/4 md:w-full">
+        <div class="p-4 shadow-md rounded-xl">
+          <h2 class="mb-1 text-2xl font-extrabold text-salmon lg:text-4xl">
+            $10 Monthly Plan
+          </h2>
+          <p class="mb-3 text-gray-600 lg:text-lg">Life Insurance Coverage</p>
+          <p class="mb-4 w-40 mx-auto text-xs leading-relaxed">
+            Access to our member platform and exclusive perks
+          </p>
+
+          <div class="flex justify-center sm:text-left mt-2">
+            <button
+              class="bg-new-blue  hover:bg-new-blue-hover transition-colors text-white active:bg-gray-700 text px-6 py-4 rounded-full shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1"
+              type="button"
+            >
+              Join Waitlist
+            </button>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
   <!-- 
