@@ -49,48 +49,48 @@
     <div class="text-left pt-2 flex flex-wrap md:flex-row flex-col">
       <a
         href="#"
-        class="mr-4 mt-4 py-3 rounded hover:bg-gray-100 self-start focus:bg-gray-100"
+        class="mr-4 mt-4 py-3 px-6 text-green-new rounded hover:bg-gray-100 self-start focus:bg-gray-100"
         aria-label="Digital Protection"
       >
         Digital Protection
       </a>
       <a
         href="#"
-        class="mr-4 mt-4 py-3 rounded hover:bg-gray-100 self-start focus:bg-gray-100"
+        class="mr-4 mt-4 py-3 px-6 rounded hover:bg-gray-100 self-start focus:bg-gray-100"
         aria-label="Terms of Use"
       >
         Terms of Use
       </a>
       <a
         href="#"
-        class="mr-4 mt-4 py-3 rounded hover:bg-gray-100 self-start focus:bg-gray-100"
+        class="mr-4 mt-4 py-3 px-6 rounded hover:bg-gray-100 self-start focus:bg-gray-100"
         aria-label="Privacy Policy"
       >
         Privacy Policy</a
       >
       <a
         href="#"
-        class="mr-4 mt-4 py-3 rounded hover:bg-gray-100 self-start focus:bg-gray-100"
+        class="mr-4 mt-4 py-3 px-6 rounded hover:bg-gray-100 self-start focus:bg-gray-100"
         aria-label="Blog"
         >Blog</a
       >
       <a
         href="#"
-        class="mr-4 mt-4 py-3 rounded hover:bg-gray-100 self-start focus:bg-gray-100"
+        class="mr-4 mt-4 py-3 px-6 rounded hover:bg-gray-100 self-start focus:bg-gray-100"
         aria-label="For Businesses"
       >
         For Businesses
       </a>
       <a
         href="#"
-        class="mr-4 mt-4 py-3 rounded hover:bg-gray-100 self-start focus:bg-gray-100"
+        class="mr-4 mt-4 py-3 px-6 rounded hover:bg-gray-100 self-start focus:bg-gray-100"
         aria-label="Contact"
       >
         Contact
       </a>
       <a
         href="#"
-        class="mr-4 mt-4 py-3 rounded hover:bg-gray-100 self-start focus:bg-gray-100"
+        class="mr-4 mt-4 py-3 px-6 rounded hover:bg-gray-100 self-start focus:bg-gray-100"
         aria-label="Careers"
       >
         Careers
