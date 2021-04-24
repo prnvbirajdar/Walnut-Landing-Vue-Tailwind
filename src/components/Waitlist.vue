@@ -23,7 +23,7 @@
       2xl
     </p>
   </div>
-  <section class="bg-salmon dark:bg-gray-800 mt-10 h-96 md:pt-6 lg:pt-0 ">
+  <section class="bg-salmon mt-10 h-96 md:pt-6 lg:pt-0 ">
     <div
       class="text-center w-full mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 "
     >
@@ -31,7 +31,7 @@
         Join the waitlist
       </p>
       <h2
-        class="md:text-5xl font-extrabold text-white dark:text-white text-4xl"
+        class="md:text-5xl font-extrabold text-white text-4xl"
       >
         <span class="block"> Get notified when we are live! </span>
       </h2>

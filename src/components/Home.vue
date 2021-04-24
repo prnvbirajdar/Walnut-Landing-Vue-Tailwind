@@ -8,7 +8,7 @@
       <!--     <benefits-component></benefits-component>-->
       <waitlist-component></waitlist-component>
     </main>
-    <!-- <footer-component></footer-component> -->
+    <footer-component></footer-component>
   </div>
 </template>
 
@@ -18,7 +18,7 @@ import HeaderComponent from "./Header.vue";
 import PricingComponent from "./Pricing.vue";
 // import BenefitsComponent from "./Benefits.vue";
 import WaitlistComponent from "./Waitlist.vue";
-// import FooterComponent from "./Footer.vue";
+import FooterComponent from "./Footer.vue";
 
 export default {
   name: "landing-page",
@@ -28,7 +28,7 @@ export default {
     // NavbarComponent,
     // BenefitsComponent,
     WaitlistComponent,
-    // FooterComponent
+    FooterComponent,
   },
 };
 </script>
