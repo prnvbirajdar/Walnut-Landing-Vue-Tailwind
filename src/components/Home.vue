@@ -5,7 +5,7 @@
       <header-component></header-component>
       <div class="md:mt-96 lg:mt-0"></div>
       <pricing-component></pricing-component>
-      <!--     <benefits-component></benefits-component>-->
+      <benefits-component></benefits-component>
       <waitlist-component></waitlist-component>
     </main>
     <footer-component></footer-component>
@@ -16,7 +16,7 @@
 // import NavbarComponent from "./Navigation.vue";
 import HeaderComponent from "./Header.vue";
 import PricingComponent from "./Pricing.vue";
-// import BenefitsComponent from "./Benefits.vue";
+import BenefitsComponent from "./Benefits.vue";
 import WaitlistComponent from "./Waitlist.vue";
 import FooterComponent from "./Footer.vue";
 
@@ -26,7 +26,7 @@ export default {
     HeaderComponent,
     PricingComponent,
     // NavbarComponent,
-    // BenefitsComponent,
+    BenefitsComponent,
     WaitlistComponent,
     FooterComponent,
   },

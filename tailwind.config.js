@@ -13,8 +13,9 @@ module.exports = {
         "new-blue-hover": "#233589",
         salmon: "#f93b55",
         "green-new": "#288362",
-        "new-gray": "#5d5d5d",
-        "new-dark-gray": "#353535",
+        "light-yellow": "#fffbed",
+        "light-pink": "#feebee",
+        "light-blue": "#ebedf9",
       },
       lineHeight: {
         12: "3.25rem",

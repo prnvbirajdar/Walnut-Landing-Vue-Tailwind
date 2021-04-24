@@ -21,7 +21,7 @@
       <PriceCenter plan="$10 Monthly Plan" coverage="$60,000+" />
       <Price plan="$15 Monthly Plan" coverage="$110,000+" />
     </div>
-    <p class="w-full text-sm text-gray-600 md:w-5/12 lg:w-4/12 mx-auto">
+    <p class="w-10/12 text-sm text-gray-600 md:w-5/12 lg:w-4/12 mx-auto">
       Estimated coverage amounts for customers under 20-35 years of age with no
       pre-existing conditions.
     </p>
