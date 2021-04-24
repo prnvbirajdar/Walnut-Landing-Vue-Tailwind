@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- <navbar-component></navbar-component> -->
+    <navbar-component></navbar-component> 
     <main>
       <header-component></header-component>
       <div class="md:mt-96 lg:mt-0"></div>
@@ -13,7 +13,7 @@
 </template>
 
 <script>
-// import NavbarComponent from "./Navigation.vue";
+ import NavbarComponent from "./Navigation.vue";
 import HeaderComponent from "./Header.vue";
 import PricingComponent from "./Pricing.vue";
 import BenefitsComponent from "./Benefits.vue";
@@ -25,7 +25,7 @@ export default {
   components: {
     HeaderComponent,
     PricingComponent,
-    // NavbarComponent,
+     NavbarComponent,
     BenefitsComponent,
     WaitlistComponent,
     FooterComponent,
