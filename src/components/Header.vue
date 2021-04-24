@@ -1,28 +1,4 @@
 <template>
-  <div class="text-black px-5">
-    <p class="px-5 rounded py-1 bg-gray-300 block sm:hidden">Mobile</p>
-    <p class="px-5 rounded py-1 bg-red-300 hidden sm:block md:hidden">Sm</p>
-    <p
-      class="px-5 rounded py-1 bg-green-300 hidden sm:hidden md:block lg:hidden"
-    >
-      Md
-    </p>
-    <p
-      class="px-5 rounded py-1 bg-blue-300 hidden sm:hidden md:hidden lg:block xl:hidden"
-    >
-      Lg
-    </p>
-    <p
-      class="px-5 rounded py-1 bg-yellow-300 hidden sm:hidden md:hidden lg:hidden xl:block 2xl:hidden"
-    >
-      xl
-    </p>
-    <p
-      class="px-5 rounded py-1 bg-purple-300 hidden sm:hidden md:hidden lg:hidden xl:hidden 2xl:block"
-    >
-      2xl
-    </p>
-  </div>
   <header
     class="mt-28 lg:mt-0 w-11/12 md:w-10/12 mx-auto flex flex-col lg:flex-row md:h-screen"
   >
