@@ -3,7 +3,7 @@
     <div class="mt-32 mb-10 flex flex-wrap justify-center">
       <div class="w-full sm:w-11/12 md:w-8/12 lg:w-6/12 2xl:w-5/12 px-4">
         <h2
-          class="text-5xl font-title tracking-wide font-medium text-gray-800 text-left sm:text-center leading-12"
+          class="text-4xl sm:text-5xl font-title tracking-wide font-medium text-gray-800 text-left sm:text-center leading-12"
         >
           Simple and affordable plans starting at only $5
         </h2>
