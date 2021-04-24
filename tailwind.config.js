@@ -12,6 +12,9 @@ module.exports = {
         "new-gray": "#5d5d5d",
         "new-dark-gray": "#353535",
       },
+      lineHeight: {
+        12: "3rem",
+      },
     },
   },
   variants: {
