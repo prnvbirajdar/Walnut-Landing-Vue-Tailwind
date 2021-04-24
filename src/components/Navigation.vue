@@ -8,9 +8,7 @@
       <div class="relative flex items-center justify-between h-16">
         <div class="absolute inset-y-0 right-0 flex items-center lg:hidden">
           <!-- Mobile menu button-->
-          <DisclosureButton
-            class="inline-flex items-center justify-center"
-          >
+          <DisclosureButton class="inline-flex items-center justify-center">
             <span class="sr-only">Open main menu</span>
             <div
               class="p-2 hover:bg-gray-100 rounded text-gray-600 hover:text-gray-800"
@@ -21,9 +19,7 @@
             </div>
           </DisclosureButton>
         </div>
-        <div
-          class="px-4 lg:px-0 flex-1 flex items-center justify-center sm:justify-between"
-        >
+        <div class="px-4 lg:px-0 flex-1 flex items-center sm:justify-between">
           <div class="flex-shrink-0 flex items-center">
             <div class="flex w-full">
               <img class="h-8 w-7" src="/logo.png" alt="Logo" />
