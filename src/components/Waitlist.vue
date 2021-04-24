@@ -23,7 +23,7 @@
       2xl
     </p>
   </div>
-  <section class="bg-salmon dark:bg-gray-800 mt-96 h-96">
+  <section class="bg-salmon dark:bg-gray-800 mt-10 h-96">
     <div
       class="text-center w-full mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 z-20"
     >

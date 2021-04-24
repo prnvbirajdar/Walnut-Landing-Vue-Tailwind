@@ -32,7 +32,7 @@
         </div>
       </div>
     </div>
-    <div class="mx-auto md:mx-0 flex flex-col justify-center ">
+    <div class="mt-8 md:mx-0 ">
       <img
         class="object-cover h-96 md:h-96 lg:h-auto block md:hidden lg:block"
         src="/phone.png"

@@ -1,5 +1,5 @@
 <template>
-  <section class="h-screen">
+  <section>
     <div class="mt-32 mb-10 flex flex-wrap justify-center">
       <div class="w-full sm:w-11/12 md:w-8/12 lg:w-6/12 2xl:w-5/12 px-4">
         <h2
@@ -16,7 +16,7 @@
         </p>
       </div>
     </div>
-    <div class="flex flex-wrap">
+    <div class="flex flex-col lg:flex-row">
       <Price plan="$5 Monthly Plan" coverage="$20,000+" />
       <PriceCenter plan="$10 Monthly Plan" coverage="$60,000+" />
       <Price plan="$15 Monthly Plan" coverage="$110,000+" />
