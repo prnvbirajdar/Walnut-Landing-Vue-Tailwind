@@ -24,14 +24,16 @@
     </p>
   </div>
   <section class="h-screen">
-    <div class="mt-32 flex flex-wrap justify-center">
+    <div class="mt-32 mb-10 flex flex-wrap justify-center">
       <div class="w-full sm:w-11/12 md:w-3/5 lg:w-6/12 2xl:w-5/12 px-4">
         <h2
           class="text-5xl font-title tracking-wide font-medium text-gray-800 text-left sm:text-center leading-12"
         >
           Simple and affordable plans starting at only $5
         </h2>
-        <p class="text-lg leading-relaxed mt-8 mb-4 text-left text-gray-600 sm:text-center">
+        <p
+          class="text-lg leading-relaxed mt-8 mb-4 text-left text-gray-600 sm:text-center"
+        >
           We're putting the power in your hands with 100% transparent pricing.
           Simply select your plan, see your coverage and purchase in just five
           minutes.
@@ -40,18 +42,39 @@
     </div>
     <div>
       <div class="px-2 py-6 mx-auto lg:w-1/3 md:w-full">
-        <div class="p-4 border-2 shadow-md rounded-xl">
-          <h2 class="mb-1 text-2xl font-title tracking-wide font-semibold text-salmon lg:text-4xl">
-            $10 Monthly Plan
+        <div class="py-10 border-2 shadow-md rounded-xl mx-auto w-10/12">
+          <h2
+            class="mb-1 text-2xl font-title tracking-wide font-semibold text-salmon lg:text-4xl"
+          >
+            $5 Monthly Plan
           </h2>
-          <p class="mb-3 text-gray-600 lg:text-lg">Life Insurance Coverage</p>
+          <p class="mb-6 font-bold text-gray-600 lg:text-lg">
+            Life Insurance Coverage
+          </p>
+          <div class="flex justify-center">
+            <svg
+              viewBox="0 0 551.147 551.147"
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-7 w-7"
+            >
+              <path
+                d="M275.574 551.147c-2.573 0-5.163-.572-7.535-1.749C159.084 496.35 68.9 439.098 68.9 275.582V86.131c0-7.232 4.524-13.724 11.336-16.18L269.687 1.06c3.801-1.413 7.972-1.413 11.773 0l189.451 68.891c6.812 2.456 11.336 8.948 11.336 16.18v189.451c0 163.516-90.184 220.768-199.139 273.816-2.371 1.177-4.961 1.749-7.534 1.749zM103.345 98.208v177.375c0 128.465 57.992 182.454 172.228 239.135 114.236-56.681 172.228-110.67 172.228-239.135V98.208L275.574 35.573 103.345 98.208z"
+              />
+            </svg>
+
+            <h3
+              class="mb-1 text-2xl font-title font-semibold text-gray-800 lg:text-4xl"
+            >
+              &nbsp;$20,000+
+            </h3>
+          </div>
           <p class="mb-4 text-gray-600 w-40 mx-auto text-xs leading-relaxed">
             Access to our member platform and exclusive perks
           </p>
 
-          <div class="flex justify-center sm:text-left mt-2">
+          <div class="flex justify-center sm:text-left mt-8">
             <button
-              class="bg-new-blue  hover:bg-new-blue-hover transition-colors text-white active:bg-gray-700 text px-6 py-4 rounded-full shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1"
+              class="bg-new-blue w-44 hover:bg-new-blue-hover transition-colors font-bold text-white active:bg-gray-700 text px-6 py-4 rounded-full shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1"
               type="button"
             >
               Join Waitlist
