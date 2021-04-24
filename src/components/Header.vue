@@ -1,4 +1,28 @@
 <template>
+  <div class="text-black px-5">
+    <p class="px-5 rounded py-1 bg-gray-300 block sm:hidden">Mobile</p>
+    <p class="px-5 rounded py-1 bg-red-300 hidden sm:block md:hidden">Sm</p>
+    <p
+      class="px-5 rounded py-1 bg-green-300 hidden sm:hidden md:block lg:hidden"
+    >
+      Md
+    </p>
+    <p
+      class="px-5 rounded py-1 bg-blue-300 hidden sm:hidden md:hidden lg:block xl:hidden"
+    >
+      Lg
+    </p>
+    <p
+      class="px-5 rounded py-1 bg-yellow-300 hidden sm:hidden md:hidden lg:hidden xl:block 2xl:hidden"
+    >
+      xl
+    </p>
+    <p
+      class="px-5 rounded py-1 bg-purple-300 hidden sm:hidden md:hidden lg:hidden xl:hidden 2xl:block"
+    >
+      2xl
+    </p>
+  </div>
   <header
     class="mt-28 lg:mt-0 w-11/12 md:w-10/12 mx-auto flex flex-col lg:flex-row md:h-screen"
   >
@@ -7,7 +31,9 @@
     </div>
     <div class="text-left flex flex-col justify-center">
       <div class="md:w-3/4">
-        <h1 class="text-salmon font-medium tracking-wide text-4xl sm:text-5xl font-title">
+        <h1
+          class="text-salmon font-medium tracking-wide text-4xl sm:text-5xl font-title"
+        >
           Life insurance — now a premium membership you'll love
         </h1>
         <p class="mt-6 text-lg text-gray-600">
@@ -32,7 +58,7 @@
         </div>
       </div>
     </div>
-    <div class="mt-8 md:mx-0 ">
+    <div class="mt-8 md:mx-0">
       <img
         class="object-cover h-96 md:h-96 lg:h-auto block md:hidden lg:block"
         src="/phone.png"
