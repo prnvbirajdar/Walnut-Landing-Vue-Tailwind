@@ -1,9 +1,11 @@
 <template>
-  <div class="w-11/12 lg:w-4/12  md:w-8/12 mx-auto px-4 text-center">
+  <div class="w-11/12 lg:w-4/12 md:w-8/12 mx-auto px-4 text-center">
+    <div class="mx-auto h-40 w-40 z-10"><img src="/logo.png" alt="Logo" /></div>
+
     <div
-      class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow rounded-lg"
+      class="-mt-10 flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow rounded-lg hover:shadow-lg"
     >
-      <div class="px-4 py-16 lg:py-24 flex-auto">
+      <div class="px-4 py-16 lg:py-28 flex-auto">
         <h2
           class="mb-1 text-2xl md:text-3xl font-title tracking-wide font-semibold text-salmon lg:text-3xl"
         >
