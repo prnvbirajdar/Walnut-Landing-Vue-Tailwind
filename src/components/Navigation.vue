@@ -1,4 +1,5 @@
 <template>
+  <!-- TODO: Make mobile navigation match current Walnut's mobile navigation -->
   <Disclosure
     as="nav"
     class="bg-white fixed top-0 left-0 right-0 shadow h-20 pt-2 z-50"
@@ -19,6 +20,7 @@
             </div>
           </DisclosureButton>
         </div>
+        <!-- Large screen button and options -->
         <div class="px-4 lg:px-0 flex-1 flex items-center sm:justify-between">
           <div class="flex-shrink-0 flex items-center">
             <div class="flex w-full">
@@ -59,7 +61,7 @@
         ></div>
       </div>
     </div>
-
+    <!-- Mobile menu options -->
     <DisclosurePanel class="lg:hidden bg-white shadow">
       <div class="px-2 pt-2 pb-8 space-y-6">
         <a

@@ -46,7 +46,7 @@
         </a>
       </div>
     </div>
-    <!-- Create components for each button below. Lots of repetition. -->
+    <!--TODO: Create components for each button below. Lots of repetition. -->
     <div class="text-left pt-2 flex flex-wrap md:flex-row flex-col">
       <a
         href="#"
