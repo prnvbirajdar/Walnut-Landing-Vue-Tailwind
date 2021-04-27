@@ -2,6 +2,7 @@
   <header
     class="mt-28 lg:mt-0 w-11/12 md:w-10/12 mx-auto flex flex-col lg:flex-row md:h-screen"
   >
+  <!-- Image only for medium screens -->
     <div class="mb-16 hidden md:block lg:hidden">
       <img class="object-cover h-96" src="/phone.png" alt="Phone Image" />
     </div>
@@ -34,6 +35,7 @@
         </div>
       </div>
     </div>
+      <!-- Image for all other screens -->
     <div class="mt-8 md:mx-0">
       <img
         class="object-cover h-96 md:h-96 lg:h-auto block md:hidden lg:block"

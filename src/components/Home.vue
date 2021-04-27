@@ -9,6 +9,7 @@
       <waitlist-component></waitlist-component>
     </main>
     <footer-component></footer-component>
+    <!-- chat functionality at the bottom right -->
     <ChatBox />
   </div>
 </template>
