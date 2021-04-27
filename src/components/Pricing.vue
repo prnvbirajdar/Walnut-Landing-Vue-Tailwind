@@ -16,6 +16,7 @@
         </p>
       </div>
     </div>
+    <!-- Pricing Components, Price is slightly smaller than PriceCenter on large screens -->
     <div class="flex flex-col lg:flex-row">
       <Price plan="$5 Monthly Plan" coverage="$20,000+" />
       <PriceCenter plan="$10 Monthly Plan" coverage="$60,000+" />

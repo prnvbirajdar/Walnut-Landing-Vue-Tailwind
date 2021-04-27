@@ -2,9 +2,7 @@
   <div
     class="lg:mt-44 w-11/12 mb-8 lg:mb-0 mx-auto md:w-8/12 lg:w-4/12 px-4 text-center lg:transform lg:transition lg:hover:scale-105"
   >
-    <div
-      class=" shadow hover:shadow-lg rounded-lg"
-    >
+    <div class="shadow hover:shadow-lg rounded-lg">
       <div class="px-4 py-16 flex-auto">
         <h2
           class="mb-1 text-2xl md:text-3xl font-title tracking-wide font-semibold text-salmon lg:text-3xl"

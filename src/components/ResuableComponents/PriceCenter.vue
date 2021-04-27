@@ -2,6 +2,7 @@
   <div
     class="w-11/12 lg:w-4/12 md:w-8/12 mx-auto px-4 text-center lg:transform lg:transition lg:hover:scale-105"
   >
+  <!-- Walnut logo only visible for large screens -->
     <div class="hidden lg:block mx-auto h-40 w-40">
       <img src="/logo.png" alt="Logo" />
     </div>
