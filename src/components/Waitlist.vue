@@ -1,5 +1,4 @@
 <template>
-  
   <section class="bg-salmon mt-10 h-96 md:pt-6 lg:pt-0 ">
     <div
       class="text-center w-full mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 "

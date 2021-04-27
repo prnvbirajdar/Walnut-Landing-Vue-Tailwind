@@ -30,7 +30,7 @@
 
         <a
           href="#"
-          class=" text-gray-800 hover:text-blue-800"
+          class="text-gray-800 hover:text-blue-800"
           aria-label="Github"
         >
           <svg
@@ -46,6 +46,7 @@
         </a>
       </div>
     </div>
+    <!-- Create components for each button below. Lots of repetition. -->
     <div class="text-left pt-2 flex flex-wrap md:flex-row flex-col">
       <a
         href="#"
