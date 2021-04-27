@@ -1,5 +1,6 @@
 <template>
   <section class="w-11/12 md:full mx-auto flex flex-col md:flex-row md:mt-96">
+  <!-- This div is sticky for medium + screens when scrolling through this section -->
     <div
       class="mt-60 mb-10 flex flex-wrap justify-center md:w-1/2 lg:w-10/12 md:mt-0 md:h-full md:sticky md:top-56"
     >
@@ -15,6 +16,7 @@
         </p>
       </div>
     </div>
+    <!-- Props passed down to BenefitCard components -->
     <div class="md:w-11/12 mx-auto space-y-6 md:mt-60">
       <BenefitCard
         image="/stars.png"
